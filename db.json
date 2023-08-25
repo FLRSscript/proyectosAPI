@@ -3,5 +3,20 @@
         "nombre": "Bienes Raices",
         "descripcion": "Proyecto desarrollado en la arquitectura Model View Controller, implementación de herramientas como GULP, implementacion de contacto por Email y telefono, libreria bootstrap, etc. Proyecto totalmente administrable, con un CRUD que envuelve bases de datos en SQL, sanitización de datos, uso de una clase maestra que hereda sus funciones y metodos a las nuevas clases. Centrado en la venta y renta de Propiedades/Inmuebles este proyecto cumple con la estetica y requerimientos que el cliente solicita",
         "imagen": "/build/img/bienesraices.png"
+    },
+    {
+        "nombre": "Bienes Raices",
+        "descripcion": "Proyecto desarrollado en la arquitectura Model View Controller, implementación de herramientas como GULP, implementacion de contacto por Email y telefono, libreria bootstrap, etc. Proyecto totalmente administrable, con un CRUD que envuelve bases de datos en SQL, sanitización de datos, uso de una clase maestra que hereda sus funciones y metodos a las nuevas clases. Centrado en la venta y renta de Propiedades/Inmuebles este proyecto cumple con la estetica y requerimientos que el cliente solicita",
+        "imagen": "/build/img/bienesraices.png"
+    },
+    {
+        "nombre": "Bienes Raices",
+        "descripcion": "Proyecto desarrollado en la arquitectura Model View Controller, implementación de herramientas como GULP, implementacion de contacto por Email y telefono, libreria bootstrap, etc. Proyecto totalmente administrable, con un CRUD que envuelve bases de datos en SQL, sanitización de datos, uso de una clase maestra que hereda sus funciones y metodos a las nuevas clases. Centrado en la venta y renta de Propiedades/Inmuebles este proyecto cumple con la estetica y requerimientos que el cliente solicita",
+        "imagen": "/build/img/bienesraices.png"
+    },
+    {
+        "nombre": "Bienes Raices",
+        "descripcion": "Proyecto desarrollado en la arquitectura Model View Controller, implementación de herramientas como GULP, implementacion de contacto por Email y telefono, libreria bootstrap, etc. Proyecto totalmente administrable, con un CRUD que envuelve bases de datos en SQL, sanitización de datos, uso de una clase maestra que hereda sus funciones y metodos a las nuevas clases. Centrado en la venta y renta de Propiedades/Inmuebles este proyecto cumple con la estetica y requerimientos que el cliente solicita",
+        "imagen": "/build/img/bienesraices.png"
     }
 ]
