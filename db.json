@@ -35,7 +35,7 @@
         "nombre": "App Salon",
         "descripcion": "Este proyecto se desarrolló utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante correo electrónico y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.",
         "imagen": "/build/img/bienesraices.png",
-        "tecnologias": ["php", "sql", "html", "css", "sass", "btrap"],
+        "tecnologias": ["php", "sql", "html"],
         "info": "",
         "link": "http://jaycode-bienesraices-mvc.domcloud.io/"
       }
