@@ -3,7 +3,7 @@
     "id": "1",
     "nombre": "Bienes Raíces",
     "descripcion": "Este proyecto se desarrolló utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante correo electrónico y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.",
-    "imagen": "/build/img/bienesraices.png",
+    "imagen": "/build/img/bienesraices.webp",
     "tecnologias": [
       "php",
       "sql",
@@ -12,13 +12,13 @@
       "sass"
     ],
     "info": "",
-    "link": "http://jaycode-bienesraices-mvc.domcloud.io"
+    "link": "http://jaycode-bienesraices-mvc.domcloud.io/"
   },
   {
     "id": "2",
     "nombre": "AppSalon",
     "descripcion": "Este proyecto se desarrolló utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante correo electrónico y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.",
-    "imagen": "/build/img/bienesraices.png",
+    "imagen": "/build/img/appsalon.webp",
     "tecnologias": [
       "php",
       "sql",
@@ -27,13 +27,13 @@
       "sass"
     ],
     "info": "",
-    "link": "http://jaycode-bienesraices-mvc.domcloud.io"
+    "link": "http://jaycode-appsalon-mvc.domcloud.io/"
   },
   {
     "id": "3",
     "nombre": "UpTask",
     "descripcion": "Este proyecto se desarrolló utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante correo electrónico y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.",
-    "imagen": "/build/img/bienesraices.png",
+    "imagen": "/build/img/uptask.webp",
     "tecnologias": [
       "php",
       "sql",
@@ -42,13 +42,13 @@
       "sass"
     ],
     "info": "",
-    "link": "http://jaycode-bienesraices-mvc.domcloud.io"
+    "link": "http://jaycode-uptask-mvc.domcloud.io/"
   },
   {
     "id": "4",
     "nombre": "Festival De Musica",
     "descripcion": "Este proyecto se desarrolló utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante correo electrónico y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.",
-    "imagen": "/build/img/bienesraices.png",
+    "imagen": "/build/img/festivalmusica.webp",
     "tecnologias": [
       "php",
       "sql",
@@ -57,13 +57,13 @@
       "sass"
     ],
     "info": "",
-    "link": "https://miprimerfestivaldemusica.netlify.app"
+    "link": "https://miprimerfestivaldemusica.netlify.app/"
   },
   {
     "id": "5",
     "nombre": "Geek Store",
     "descripcion": "Este proyecto se desarrolló utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante correo electrónico y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.",
-    "imagen": "/build/img/bienesraices.png",
+    "imagen": "/build/img/geekstore.webp",
     "tecnologias": [
       "php",
       "sql",
@@ -72,13 +72,13 @@
       "sass"
     ],
     "info": "",
-    "link": "http://jaycode-bienesraices-mvc.domcloud.io"
+    "link": "https://vermillion-horse-b13a61.netlify.app/"
   },
   {
     "id": "6",
     "nombre": "Encriptador",
     "descripcion": "Este proyecto se desarrolló utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante correo electrónico y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.",
-    "imagen": "/build/img/bienesraices.png",
+    "imagen": "/build/img/enriptador.webp",
     "tecnologias": [
       "php",
       "sql",
@@ -93,7 +93,7 @@
     "id": "7",
     "nombre": "Tienda de ropa",
     "descripcion": "Este proyecto se desarrolló utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante correo electrónico y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.",
-    "imagen": "/build/img/bienesraices.png",
+    "imagen": "/build/img/tiendaropa.webp",
     "tecnologias": [
       "php",
       "sql",
@@ -102,13 +102,13 @@
       "sass"
     ],
     "info": "",
-    "link": "https://lucent-biscuit-b44925.netlify.app"
+    "link": "https://lucent-biscuit-b44925.netlify.app/"
   },
   {
     "id": "8",
     "nombre": "Blog De Café",
     "descripcion": "Este proyecto se desarrolló utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante correo electrónico y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.",
-    "imagen": "/build/img/bienesraices.png",
+    "imagen": "/build/img/cafeblog.webp",
     "tecnologias": [
       "php",
       "sql",
@@ -117,13 +117,13 @@
       "sass"
     ],
     "info": "",
-    "link": "https://jacobscoffeblog.netlify.app"
+    "link": "https://jacobscoffeblog.netlify.app/"
   },
   {
     "id": "9",
     "nombre": "FreeLancer",
     "descripcion": "Este proyecto se desarrolló utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante correo electrónico y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.",
-    "imagen": "/build/img/bienesraices.png",
+    "imagen": "/build/img/freelancer.webp",
     "tecnologias": [
       "php",
       "sql",
@@ -132,6 +132,6 @@
       "sass"
     ],
     "info": "",
-    "link": "https://myfirstwebpagehtml.netlify.app"
+    "link": "https://myfirstwebpagehtml.netlify.app/"
   }
 ]
