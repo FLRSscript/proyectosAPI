@@ -67,7 +67,7 @@
   {
     "id": "5",
     "nombre": "Geek Store",
-    "descripcion": "CRUD completo implementando el uso de API's, la tienda geek que muestra productos de diferentes categorias para el cliente, así tambien como un area administrable donde se pueden agregar, actualizar y eliminar productos, asignarles, precio, imagen, categoria, etc.",
+    "descripcion": "CRUD completo implementando el uso de API's, la tienda geek que muestra productos de diferentes categorias para el cliente, así tambien como un area administrable donde se pueden agregar, actualizar y eliminar productos, asignarles, precio, imagen, categoria, etc. Puedes probarla, user: admin, password: admin123",
     "imagen": "/build/img/geekstore.webp",
     "tecnologias": [
       "js",
