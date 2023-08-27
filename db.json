@@ -19,9 +19,11 @@
   {
     "id": "2",
     "nombre": "AppSalon",
-    "descripcion": "Este proyecto se desarrolló utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante correo electrónico y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.",
+    "descripcion": "Aplicación para cliente de la rama de belleza, totalmente administrable, crea citas, crea servicios, editar y eliminarlos. Contacto por email disponible, validacion de formularios entre otras funcionalidades requeridas por el cliente. Implementacion de la arquitectura Model View Controller en PHP. Toda la informacion traida desde una base de datos y API.",
     "imagen": "/build/img/appsalon.webp",
     "tecnologias": [
+      "btrap",
+      "js",
       "php",
       "sql",
       "html",
@@ -34,9 +36,11 @@
   {
     "id": "3",
     "nombre": "UpTask",
-    "descripcion": "Este proyecto se desarrolló utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante correo electrónico y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.",
+    "descripcion": "ADministracion de proyectos, creacion de tareas personalizadas, buscador, filtros, para llevar un track de las tareas diarias o cualquier proyecto como recordatorio, CRUD completo implementando base de datos SQL y PHP.",
     "imagen": "/build/img/uptask.webp",
     "tecnologias": [
+      "js",
+      "btrap",
       "php",
       "sql",
       "html",
@@ -49,11 +53,10 @@
   {
     "id": "4",
     "nombre": "Festival De Musica",
-    "descripcion": "Este proyecto se desarrolló utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante correo electrónico y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.",
+    "descripcion": "Front End manipulado con Javascript, diseñando un sitio web para un evento musical, poniendo en practica la manipulacion del DOM con javascrip, imagenes escalables, galeria interactiva y funcionalidades de CSS avanzadas",
     "imagen": "/build/img/festivalmusica.webp",
     "tecnologias": [
-      "php",
-      "sql",
+      "js",
       "html",
       "css",
       "sass"
@@ -64,13 +67,13 @@
   {
     "id": "5",
     "nombre": "Geek Store",
-    "descripcion": "Este proyecto se desarrolló utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante correo electrónico y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.",
+    "descripcion": "CRUD completo implementando el uso de API's, la tienda geek que muestra productos de diferentes categorias para el cliente, así tambien como un area administrable donde se pueden agregar, actualizar y eliminar productos, asignarles, precio, imagen, categoria, etc.",
     "imagen": "/build/img/geekstore.webp",
     "tecnologias": [
-      "php",
-      "sql",
+      "js",
       "html",
       "css",
+      "btrap",
       "sass"
     ],
     "info": "",
@@ -79,7 +82,7 @@
   {
     "id": "6",
     "nombre": "Encriptador",
-    "descripcion": "Este proyecto se desarrolló utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante correo electrónico y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.",
+    "descripcion": "Proyecto de manipulacion del DOM con javascript, funcionalidad de copiado y encriptacion/desencriptacion del texto introducido por el usuario",
     "imagen": "/build/img/encriptador.png",
     "tecnologias": [
       "html",
@@ -93,11 +96,9 @@
   {
     "id": "7",
     "nombre": "Tienda de ropa",
-    "descripcion": "Este proyecto se desarrolló utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante correo electrónico y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.",
+    "descripcion": "Front End de tienda online, haciendo uso de funcionalidades CSS como FLEXBOX y GRID, interfaz profesional y personalisable a los requerimientos del cliente",
     "imagen": "/build/img/tiendaropa.webp",
     "tecnologias": [
-      "php",
-      "sql",
       "html",
       "css",
       "sass"
@@ -108,11 +109,9 @@
   {
     "id": "8",
     "nombre": "Blog De Café",
-    "descripcion": "Este proyecto se desarrolló utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante correo electrónico y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.",
+    "descripcion": "Interfaz Front End de blog personal de cafe, un sitio, simple, minimalista y personalizado a los requerimientos del cliente, con seccion sobre la empresa, cursos y contacto",
     "imagen": "/build/img/cafeblog.webp",
     "tecnologias": [
-      "php",
-      "sql",
       "html",
       "css",
       "sass"
@@ -123,14 +122,11 @@
   {
     "id": "9",
     "nombre": "FreeLancer",
-    "descripcion": "Este proyecto se desarrolló utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante correo electrónico y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.",
+    "descripcion": "Página web de contacto como freelancer, ventajas de trabajar con el cliente, implementacion de secciones informativas, contacto, etc.",
     "imagen": "/build/img/freelancer.webp",
     "tecnologias": [
-      "php",
-      "sql",
       "html",
-      "css",
-      "sass"
+      "css"
     ],
     "info": "",
     "link": "https://myfirstwebpagehtml.netlify.app/"
