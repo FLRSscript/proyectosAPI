@@ -36,7 +36,7 @@
   {
     "id": "3",
     "nombre": "UpTask",
-    "descripcion": "ADministracion de proyectos, creacion de tareas personalizadas, buscador, filtros, para llevar un track de las tareas diarias o cualquier proyecto como recordatorio, CRUD completo implementando base de datos SQL y PHP.",
+    "descripcion": "Administracion de proyectos, creacion de tareas personalizadas, buscador, filtros, para llevar un track de las tareas diarias o cualquier proyecto como recordatorio, CRUD completo implementando base de datos SQL y PHP.",
     "imagen": "/build/img/uptask.webp",
     "tecnologias": [
       "js",
