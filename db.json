@@ -19,7 +19,7 @@
   {
     "id": "10",
     "nombre": "DevCamp",
-    "descripcion": "Aplicacion administrable, consultas a bases de datos SQL, registro de cuentas, login con jerarquías, datos sanitizados, validación de formularios e implementación de MÉTODO DE PAGO PAYPAL. Una convención con ponentes, agrega, edita y elimina sus nombres, imagenes, redes sociales a través de la arquitectura MODEL VIEW CONTROLLER. Confirmación de E-mail. Esta es una versión DUMMY funcional, pruébala tú mismo: <span class=\"naranja\">invitado: invitado@correo.com password: password / admin: correo@correo.com password: password</span>",
+    "descripcion": "Aplicacion administrable, consultas a bases de datos SQL, registro de cuentas, login con jerarquías, datos sanitizados, validación de formularios e implementación de MÉTODO DE PAGO PAYPAL. Una convención con ponentes, agrega, edita y elimina sus nombres, imagenes, redes sociales a través de la arquitectura MODEL VIEW CONTROLLER. Confirmación de E-mail. Esta es una versión DUMMY funcional, pruébala tú mismo: \n <span class=\"naranja\">invitado: invitado@correo.com password: password \n admin: correo@correo.com password: password</span>",
     "imagen": "/build/img/devcamp.webp",
     "tecnologias": [
       "html",
