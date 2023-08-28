@@ -2,7 +2,7 @@
   {
     "id": "1",
     "nombre": "Bienes Raíces",
-    "descripcion": "Proyecto desarrollado utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante e-mail y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.",
+    "descripcion": "Proyecto desarrollado utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante e-mail y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente. \n<span class=\"naranja\">invitado: invitado@correo.com password: password / admin: correo@correo.com password: password</span>",
     "imagen": "/build/img/bienesraices.webp",
     "tecnologias": [
       "html",
@@ -36,7 +36,7 @@
   {
     "id": "2",
     "nombre": "AppSalon",
-    "descripcion": "Aplicación para cliente de la rama de belleza, totalmente administrable, crea citas, crea servicios, editar y eliminarlos. Contacto por email disponible, validacion de formularios entre otras funcionalidades requeridas por el cliente. Implementacion de la arquitectura Model View Controller en PHP. Toda la informacion traida desde una base de datos y API.",
+    "descripcion": "Aplicación para cliente de la rama de belleza, totalmente administrable, crea citas, crea servicios, editar y eliminarlos. Contacto por email disponible, validacion de formularios entre otras funcionalidades requeridas por el cliente. Implementacion de la arquitectura Model View Controller en PHP. Toda la informacion traida desde una base de datos y API. \n<span class=\"naranja\">invitado: invitado@correo.com password: password / admin: correo@correo.com password: password</span>",
     "imagen": "/build/img/appsalon.webp",
     "tecnologias": [
       "btrap",
