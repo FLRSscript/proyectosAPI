@@ -17,6 +17,23 @@
     "link": "http://jaycode-bienesraices-mvc.domcloud.io/"
   },
   {
+    "id": "10",
+    "nombre": "DevCamp",
+    "descripcion": "Aplicacion administrable, consultas a bases de datos SQL, registro de cuentas, login con jerarquías, datos sanitizados, validación de formularios e implementación de MÉTODO DE PAGO PAYPAL. Una convención con ponentes, agrega, edita y elimina sus nombres, imagenes, redes sociales a través de la arquitectura MODEL VIEW CONTROLLER. Confirmación de E-mail. Esta es una versión DUMMY funcional, pruébala tú mismo: <span class=\"naranja\">invitado: invitado@correo.com password: password / admin: correo@correo.com password: password</span>",
+    "imagen": "/build/img/bienesraices.webp",
+    "tecnologias": [
+      "html",
+      "css",
+      "js",
+      "sql",
+      "php",
+      "sass",
+      "btrap"
+    ],
+    "info": "",
+    "link": "http://jaycode-bienesraices-mvc.domcloud.io/"
+  },
+  {
     "id": "2",
     "nombre": "AppSalon",
     "descripcion": "Aplicación para cliente de la rama de belleza, totalmente administrable, crea citas, crea servicios, editar y eliminarlos. Contacto por email disponible, validacion de formularios entre otras funcionalidades requeridas por el cliente. Implementacion de la arquitectura Model View Controller en PHP. Toda la informacion traida desde una base de datos y API.",
