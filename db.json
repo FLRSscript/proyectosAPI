@@ -2,7 +2,7 @@
   {
     "id": "1",
     "nombre": "Bienes Raíces",
-    "descripcion": "Proyecto desarrollado utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante e-mail y teléfono. El diseño utiliza la librería Btrap para asegurar una interfaz atractiva y receptiva. El proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además, se realizó la sanitización de datos y se utilizó una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.<span class=\"naranja\">invitado: invitado@correo.com password: password\nadmin: correo@correo.com password: password</span>",
+    "descripcion": "Proyecto desarrollado utilizando la arquitectura Modelo-Vista-Controlador (MVC). Se implementaron herramientas como GULP para la automatización de tareas, así como opciones de contacto mediante e-mail y teléfono. Proyecto es completamente administrable e incluye operaciones de Crear, Leer, Actualizar y Borrar (CRUD) que interactúan con una base de datos SQL. Además se realiza la sanitización de datos y se utiliza una clase maestra que hereda funciones y métodos a las nuevas clases. El enfoque del proyecto es facilitar la venta y renta de propiedades e inmuebles, cumpliendo con los requerimientos estéticos y funcionales del cliente.<span class=\"naranja\">admin: correo@correo.com</span><span class=\"naranja\"> password: password</span>",
     "imagen": "/build/img/bienesraices.webp",
     "tecnologias": [
       "html",
@@ -19,7 +19,7 @@
   {
     "id": "10",
     "nombre": "DevCamp",
-    "descripcion": "Aplicacion administrable, consultas a bases de datos SQL, registro de cuentas, login con jerarquías, datos sanitizados, validación de formularios e implementación de MÉTODO DE PAGO PAYPAL. Una convención con ponentes, agrega, edita y elimina sus nombres, imágenes, redes sociales a través de la arquitectura MODEL VIEW CONTROLLER. Confirmación de E-mail. Esta es una versión DUMMY funcional, pruébala tú mismo:\n<span class=\"naranja\">invitado: invitado@correo.com password: password / admin: correo@correo.com password: password</span>",
+    "descripcion": "Aplicacion administrable, consultas a bases de datos SQL, registro de cuentas, login con jerarquías, datos sanitizados, validación de formularios e implementación de MÉTODO DE PAGO PAYPAL. Una convención con ponentes, agrega, edita y elimina sus nombres, imágenes, redes sociales a través de la arquitectura MODEL VIEW CONTROLLER. Confirmación de E-mail. Esta es una versión DUMMY funcional, pruébala tú mismo:<span class=\"naranja\">invitado: invitado@correo.com</span><span class=\"naranja\"> password: password</span><span class=\"naranja\">admin: correo@correo.com</span><span class=\"naranja\"> password: password</span>",
     "imagen": "/build/img/devcamp.webp",
     "tecnologias": [
       "html",
@@ -36,7 +36,7 @@
   {
     "id": "2",
     "nombre": "AppSalon",
-    "descripcion": "Aplicación para cliente de la rama de belleza, totalmente administrable, crea citas, crea servicios, editar y eliminarlos. Contacto por email disponible, validacion de formularios entre otras funcionalidades requeridas por el cliente. Implementacion de la arquitectura Model View Controller en PHP. Toda la informacion traida desde una base de datos y API.<span class=\"naranja\">invitado: invitado@correo.com password: password / admin: correo@correo.com password: password</span>",
+    "descripcion": "Aplicación para cliente de la rama de belleza, totalmente administrable, crea citas, crea servicios, editar y eliminarlos. Contacto por email disponible, validacion de formularios entre otras funcionalidades requeridas por el cliente. Implementacion de la arquitectura Model View Controller en PHP. Toda la informacion traida desde una base de datos y API.<span class=\"naranja\">invitado: correo@correo.com</span><span class=\"naranja\">password: password</spam>",
     "imagen": "/build/img/appsalon.webp",
     "tecnologias": [
       "btrap",
@@ -53,7 +53,7 @@
   {
     "id": "3",
     "nombre": "UpTask",
-    "descripcion": "Administracion de proyectos, creacion de tareas personalizadas, buscador, filtros, para llevar un track de las tareas diarias o cualquier proyecto como recordatorio, CRUD completo implementando base de datos SQL y PHP.",
+    "descripcion": "Administracion de proyectos, creacion de tareas personalizadas, buscador, filtros, para llevar un track de las tareas diarias o cualquier proyecto como recordatorio, CRUD completo implementando base de datos SQL y PHP.<span class=\"naranja\">invitado: correo2@correo.com</span><span class=\"naranja\">password: password</spam>",
     "imagen": "/build/img/uptask.webp",
     "tecnologias": [
       "js",
